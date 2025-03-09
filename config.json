@@ -3,13 +3,13 @@
     {
       "name": "无问DeepSeek-R1",
       "model": "deepseek-r1",
-      "api_key": "",
+      "api_key": "sk-davrabqkkdunxhc4",
       "base_url": "https://cloud.infini-ai.com/maas/v1/"
     },
     {
-      "name": "无问DeepSeek-V3",
-      "model": "deepseek-v3",
-      "api_key": "",
+      "name": "无问qwq-32b",
+      "model": "qwq-32b",
+      "api_key": "sk-davrabqkkdunxhc4",
       "base_url": "https://cloud.infini-ai.com/maas/v1/"
     },
     {
